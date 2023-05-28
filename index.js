@@ -1,4 +1,4 @@
-const url="http://www.omdbapi.com/?apikey=6a12b6b2&plot=full&t=";
+const url="https://www.omdbapi.com/?apikey=6a12b6b2&plot=full&t=";
 
 const searchbox=document.querySelector(".search input");
 const searchbtn=document.querySelector(".search button");
