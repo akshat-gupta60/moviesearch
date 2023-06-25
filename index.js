@@ -27,6 +27,7 @@ async function checkmovie(movie){
         document.querySelector(".movie").style.display="block"
 
     }
+    
    
     
     
